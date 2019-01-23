@@ -1,0 +1,49 @@
+what are different points whrere waving can be applied
+
+slect the root level package that is used for email support
+
+slect the root level package that is used for email support in spring framework
+
+select the scope for the bean factory
+
+transaction management
+
+bean instance can be controlled by changing the value of
+
+in a nested transaction mecahnism which type level transaction is applied
+
+tyoe of server support in spring transaction
+
+spring transaction management
+
+the overall tools that are supported by spring framewotk
+
+which class is used to manage the database connection in spring jdbc api
+
+caching question
+
+what are different points where waveing can be applied
+
+scope which is added in spring5.0 version
+
+which interface is implemented for all spring based web controller
+
+which data is used to manage the database connection in jdbc
+
+type of advice in spring 
+
+which build tools are supported by spring framework out of box
+
+the method defined for getter injection should always begin with get true or false
+
+which of the following statement are true about spring dao support
+
+in spring 3.0 the architecture comprises of which layers 
+
+which dependency need to be mantioned to enable spring module in application
+
+which element is used in spring for basic method replacement
+
+which annotation should be used to make the service class as transactional
+
+  
