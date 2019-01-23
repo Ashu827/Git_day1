@@ -1,0 +1,59 @@
+beans instances can be controlled by changing the value of------ attribute in the bean tag
+
+
+java programming annotations are  supproted by spring container
+
+
+package that provides multipart functionality in spring
+
+
+which of the folwing is used toexceute query for static sql to read the resultset with a reseultsetextrctor
+
+
+spring Integration testing jar
+
+
+
+jdbc delete query syntax
+
+
+
+benfits of aspects programming
+
+
+
+this.jdbcTemplate.get() syntax
+
+
+auto poplate in spring
+
+what is datasource in spring
+
+which of the follwing is not type of advice in spring.(aop)
+
+spring boot is opinionated or not. true
+
+wht do u mean by dependency injection?
+
+diff btn simple jdbc termplate and jdbc termplate
+
+what is aspect in spring?defn
+
+diff btn point cut and join point
+
+scope of stateless bean in spring. singleton
+
+@controller can be applied for methods? no
+
+which class is connect spring with structs
+
+what is the root level package for email support
+
+structs2 and spring integration
+
+
+2TRANSACTIONAL on CLASS level applies to wht methods?
+
+which annotation must be applied to service cls to mke transactional 
+
+what interface provides simpleway for transactional code to control transaction
