@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" 
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="questioning" class="com.chaya.questions.Question">
+	
+	<property name="questionId" value="10"></property>
+	<property name="question" value="which is in the collection"></property>
+	<property name="answers">
+	
+	<list>
+	 <value>chaya</value>
+	 <value>priya</value>
+	 <value>raj</value>
+	</list>
+	</property>
+	
+	<property name= "answers2">
+	
+	<set>
+	<value>Chaya</value>
+	<value>Varun</value>
+	<value>mahi</value>
+	</set>
+	</property>
+	
+	<property name= "answers3">
+	<map>
+	<entry key = "1"  value ="Chaya"/>
+	<entry key = "2"  value ="Ciya"/>
+	<entry key = "3"  value ="Chaya"/>
+	</map>
+	</property>
+	</bean>
+</beans>
+
+	<!-- </property>
+	<property name="answers1">
+	<set>
+	<value>chaya</value>
+	<value> ciya</value>
+	<value> preeti</value>
+	</set>
+	</property>
+	
+	
+	<property name="answer3">
+	<map>
+	<entry key="1" value= "fhgfh"/>
+	<entry key="2" value= "chaya"/>
+	<entry key="1" value= "madhuri"/>
+	</map>
+	</property>
+	 -->
+	

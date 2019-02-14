@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" 
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+	<bean id="customer" class="com.chaya.address.Customer">
+	<property name= "customerId"  value="10"/>
+	<property name= "customerName"  value="Rashmi"/>
+	<property name= "customerContact"  value="7204339906"/>
+	<property name= "Address"  ref="address"/>
+
+	</bean>
+<bean id="address" class="com.chaya.address.Address">
+<property name="street" value="vidyanagar"></property>
+<property name="city" value="hubli"></property>
+<property name="state" value="karnataka"></property>
+<property name="zip" value="580021"></property>
+<property name="country" value="India"></property>
+</bean>		
+</beans>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!--  <bean id="customer" class="com.chaya.address.Customer">
+	
+	<property name="customerId" value="12345" />
+	<property name="customerName" value="chaya" />
+	<property name="customerContact" value="847404" />
+	<property name="Address" ref="address" />
+	</bean>
+	<bean id="address" class="com.chaya.address.Address">
+	
+	<property name="street" value="yfghfhg" />
+	<property name="city" value="Bangalore" />
+	<property name="state" value="Karnataka" />
+	<property name="zip" value="740404" />
+	<property name="country" value="India" />
+	
+	</bean> 
+	
+	<bean id="info" class="com.chaya.address.Customer">
+	
+	<constructor-arg value="12345" />
+	<constructor-arg  value="chaya" />
+	<constructor-arg  value="847404" />
+	<constructor-arg  ref="address" />
+	</bean>
+	<bean id="address" class="com.chaya.address.Address">
+	
+	<constructor-arg  value="Whitefield" />
+	<constructor-arg  value="Bangalore" />
+	<constructor-arg  value="Karnataka" />
+	<constructor-arg value="740404" />
+	<constructor-arg  value="India" />
+	
+	</bean> 
+</beans> -->
